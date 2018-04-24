@@ -1,0 +1,6 @@
+wins vs runs
+Stuff we thought could be interesting but wasn't - SH, SF, SB, CS
+stuff that is obviously correlated but needs to be taken out - RBIS
+stuff that's traditionally viewed as important - AVG, K, HR, 3B (sample size)
+stuff that actually is important - OBP, SLG (which takes H, 2B, 3B, and HR into account)
+machine learning with the rest
